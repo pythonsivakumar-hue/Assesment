@@ -1,0 +1,112 @@
+{
+  "results": [
+    {
+      "id": "T1",
+      "status": "REJECTED",
+      "plan": [
+        "Not implemented"
+      ],
+      "tool_calls": [],
+      "final": {
+        "action": "REFUSE",
+        "payload": {
+          "reason": "Not implemented"
+        }
+      },
+      "safety": {
+        "blocked": false,
+        "reasons": []
+      }
+    },
+    {
+      "id": "T2",
+      "status": "REJECTED",
+      "plan": [
+        "Not implemented"
+      ],
+      "tool_calls": [],
+      "final": {
+        "action": "REFUSE",
+        "payload": {
+          "reason": "Not implemented"
+        }
+      },
+      "safety": {
+        "blocked": false,
+        "reasons": []
+      }
+    },
+    {
+      "id": "T3",
+      "status": "REJECTED",
+      "plan": [
+        "Not implemented"
+      ],
+      "tool_calls": [],
+      "final": {
+        "action": "REFUSE",
+        "payload": {
+          "reason": "Not implemented"
+        }
+      },
+      "safety": {
+        "blocked": false,
+        "reasons": []
+      }
+    },
+    {
+      "id": "T4",
+      "status": "REJECTED",
+      "plan": [
+        "Not implemented"
+      ],
+      "tool_calls": [],
+      "final": {
+        "action": "REFUSE",
+        "payload": {
+          "reason": "Not implemented"
+        }
+      },
+      "safety": {
+        "blocked": false,
+        "reasons": []
+      }
+    },
+    {
+      "id": "T5",
+      "status": "REJECTED",
+      "plan": [
+        "Not implemented"
+      ],
+      "tool_calls": [],
+      "final": {
+        "action": "REFUSE",
+        "payload": {
+          "reason": "Not implemented"
+        }
+      },
+      "safety": {
+        "blocked": false,
+        "reasons": []
+      }
+    },
+    {
+      "id": "T6",
+      "status": "REJECTED",
+      "plan": [
+        "Not implemented"
+      ],
+      "tool_calls": [],
+      "final": {
+        "action": "REFUSE",
+        "payload": {
+          "reason": "Not implemented"
+        }
+      },
+      "safety": {
+        "blocked": false,
+        "reasons": []
+      }
+    }
+  ]
+}
